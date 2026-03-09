@@ -8,17 +8,17 @@ Each project focuses on writing clean, readable, and maintainable code.
 # Projects
 1. Project Name
 
-Description: 
+Description:
 Concepts used: 
 
 2. Project Name
 
-Description: 
+Description:
 Concepts used: 
 
 3. Project Name
 
-Description: 
+Description:
 Concepts used:
 
 # Technologies
