@@ -7,17 +7,14 @@ Each project explores a different programming concept, algorithm, or real‑worl
 
 # Projects
 1. Project Name
-
 Description:
 Concepts used: 
 
 2. Project Name
-
 Description:
 Concepts used: 
 
 3. Project Name
-
 Description:
 Concepts used:
 
