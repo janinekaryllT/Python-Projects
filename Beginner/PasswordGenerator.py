@@ -23,7 +23,7 @@ nr_numbers = int(input(f"How many numbers would you like?\n"))
 
 # print(password)
 
-# hard level
+# hard level 
 password_list = []
 for char in range(0, nr_letters):
     password_list += random.choice(letters)
@@ -40,4 +40,4 @@ password = ""
 for char in password_list: 
     password += char 
 
-print(f"Your password is: {password}")
+print(f"Your Password is: {password}")
